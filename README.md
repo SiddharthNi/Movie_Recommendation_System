@@ -70,7 +70,8 @@ For building a application I used the  streamlit library in Py-Charm development
     
 ## Screenshots
 
-![App Screenshot]!![hnrv](https://github.com/SiddharthNi/Movie_Recommendation_System/assets/116881073/87237fd5-2b05-4ea0-b52d-bac2642ea69a)![hnrv](https://github.com/SiddharthNi/Movie_Recommendation_System/assets/116881073/48d15757-f201-4b6e-82f5-f9058f862d9b)
+![App Screenshot]!![hnrv](https://github.com/SiddharthNi/Movie_Recommendation_System/assets/116881073/87237fd5-2b05-4ea0-b52d-bac2642ea69a)![Screenshot 2023-06-11 000235](https://github.com/SiddharthNi/Movie_Recommendation_System/assets/116881073/2bbd86ca-c299-4e77-9275-1824aa20a7ca)
+
 
 
 
