@@ -1,7 +1,4 @@
-
 # Movie Recommended System By Using Streamlit.
-
-
 "Movie Recommended System By Using Streamlit" so basically project done by in py-Charm,I used the streamlit for making application of Movie Recommended System. it's providing the when you selected movie that represent same content related movie like so you selected action movie and famous actor,so it recommended the action movie and same actor movie. I used machine learning recommended topic 
 
 ## what is Recommended System in machine Learning ?
